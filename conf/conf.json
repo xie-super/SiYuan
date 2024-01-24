@@ -260,6 +260,7 @@
                       "title": "Java基础"
                     },
                     {
+                      "active": true,
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20240124105425-yw5csa6",
@@ -302,7 +303,6 @@
                       "title": "最短步数问题"
                     },
                     {
-                      "active": true,
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20231225194412-81rwaah",
