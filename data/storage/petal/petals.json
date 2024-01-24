@@ -1,0 +1,11 @@
+[
+	{
+		"name": "monaco-editor",
+		"displayName": "集成编辑环境",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	}
+]
